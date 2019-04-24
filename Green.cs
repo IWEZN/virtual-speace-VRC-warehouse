@@ -1,4 +1,4 @@
-//Get this warehouse a green colour tag
+//Get this repository a green colour tag
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
